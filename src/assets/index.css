@@ -237,10 +237,7 @@ textarea {
 
 .chatbot-chat-view {
   max-width: 800px;
-<<<<<<< HEAD
-=======
   max-height: 800px;
->>>>>>> 0102b37 (Added changes)
 }
 
 .ping span {

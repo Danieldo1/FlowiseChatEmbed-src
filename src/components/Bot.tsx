@@ -444,12 +444,8 @@ export const Bot = (props: BotProps & { class?: string }) => {
               height: '50px',
               position: props.isFullPage ? 'fixed' : 'absolute',
               top: 0,
-<<<<<<< HEAD
-              left: 0,
-              width: '100%',
-=======
               right: 0,
->>>>>>> 0102b37 (Added changes)
+
               background: props.bubbleBackgroundColor,
               color: props.bubbleTextColor,
               'border-top-left-radius': props.isFullPage ? '0px' : '6px',
@@ -487,11 +483,6 @@ export const Bot = (props: BotProps & { class?: string }) => {
             onSubmit={handleSubmit}
           />
         </div>
-<<<<<<< HEAD
-        <Badge badgeBackgroundColor={props.badgeBackgroundColor} poweredByTextColor={props.poweredByTextColor} botContainer={botContainer} />
-=======
-        {/* <Badge badgeBackgroundColor={props.badgeBackgroundColor} poweredByTextColor={props.poweredByTextColor} botContainer={botContainer} /> */}
->>>>>>> 0102b37 (Added changes)
         <BottomSpacer ref={bottomSpacer} />
       </div>
       {sourcePopupOpen() && <Popup isOpen={sourcePopupOpen()} value={sourcePopupSrc()} onClose={() => setSourcePopupOpen(false)} />}
