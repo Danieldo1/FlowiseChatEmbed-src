@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"version":3,"file":"constants.d.ts","sourceRoot":"","sources":["../src/constants.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAA;AAEpD,eAAO,MAAM,eAAe,EAAE,WAK7B,CAAA"}
+=======
+{"version":3,"file":"constants.d.ts","sourceRoot":"","sources":["../src/constants.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAC;AAErD,eAAO,MAAM,eAAe,EAAE,WAK7B,CAAC"}
+>>>>>>> 0102b37 (Added changes)
