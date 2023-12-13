@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"file":"register.d.ts","sourceRoot":"","sources":["../src/register.tsx"],"names":[],"mappings":"AAKA,eAAO,MAAM,qBAAqB,YAKjC,CAAA"}
-=======
 {"version":3,"file":"register.d.ts","sourceRoot":"","sources":["../src/register.tsx"],"names":[],"mappings":"AAKA,eAAO,MAAM,qBAAqB,YAKjC,CAAC"}
->>>>>>> 0102b37 (Added changes)

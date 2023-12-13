@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"file":"web.d.ts","sourceRoot":"","sources":["../src/web.ts"],"names":[],"mappings":"AAKA,QAAA,MAAM,OAAO;;;;;;;;;;;;;CAAiB,CAAA;AAI9B,eAAe,OAAO,CAAA"}
-=======
 {"version":3,"file":"web.d.ts","sourceRoot":"","sources":["../src/web.ts"],"names":[],"mappings":"AAKA,QAAA,MAAM,OAAO;;;;;;;;;;;;;CAAiB,CAAC;AAI/B,eAAe,OAAO,CAAC"}
->>>>>>> 0102b37 (Added changes)

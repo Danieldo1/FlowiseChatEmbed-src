@@ -442,14 +442,16 @@ export const Bot = (props: BotProps & { class?: string }) => {
               'flex-direction': 'row',
               'align-items': 'center',
               height: '50px',
+              width: '85%',
               position: props.isFullPage ? 'fixed' : 'absolute',
               top: 0,
               right: 0,
-
+              'z-index': '20',
               background: props.bubbleBackgroundColor,
               color: props.bubbleTextColor,
               'border-top-left-radius': props.isFullPage ? '0px' : '6px',
               'border-top-right-radius': props.isFullPage ? '0px' : '6px',
+              'border-bottom-left-radius': props.isFullPage ? '10px' : '0px',
             }}
           >
             <Show when={props.titleAvatarSrc}>

@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/components/icons/index.ts"],"names":[],"mappings":"AAAA,cAAc,YAAY,CAAA"}
-=======
 {"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../src/components/icons/index.ts"],"names":[],"mappings":"AAAA,cAAc,YAAY,CAAC"}
->>>>>>> 0102b37 (Added changes)

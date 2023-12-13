@@ -1,6 +1,6 @@
 {
   "name": "flowise-embed-no-watermark-custom-styles",
-  "version": "1.0.16",
+  "version": "1.0.21",
   "description": "Javascript library to display flowise chatbot on your website",
   "type": "module",
   "main": "dist/index.js",

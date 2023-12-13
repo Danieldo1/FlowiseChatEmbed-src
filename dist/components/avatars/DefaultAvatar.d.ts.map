@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-{"version":3,"file":"DefaultAvatar.d.ts","sourceRoot":"","sources":["../../../src/components/avatars/DefaultAvatar.tsx"],"names":[],"mappings":"AAEA,eAAO,MAAM,aAAa,sCAmDzB,CAAA"}
-=======
 {"version":3,"file":"DefaultAvatar.d.ts","sourceRoot":"","sources":["../../../src/components/avatars/DefaultAvatar.tsx"],"names":[],"mappings":"AAEA,eAAO,MAAM,aAAa,sCAmCzB,CAAC"}
->>>>>>> 0102b37 (Added changes)
