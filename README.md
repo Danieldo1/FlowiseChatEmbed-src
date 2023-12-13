@@ -1,79 +1,27 @@
 <!-- markdownlint-disable MD030 -->
 
-# Flowise Embed
+# Flowise Embed No watermark REACT COMPONENT ONLY
 
-Javascript library to display flowise chatbot on your website
 
-![Flowise](https://github.com/FlowiseAI/FlowiseChatEmbed/blob/main/images/ChatEmbed.gif?raw=true)
 
 Install:
 
 ```bash
-yarn install
+npm i flowise-embed-no-watermark-custom-styles
 ```
-
-Dev:
 
 ```bash
-yarn dev
+npm i flowise-embed-react-no-watermark-plus-minor-tweaks
+```
+## You need both for the watermark to be gone. 
+Replace 
+
+```
+import {Chatbot} from embed-react-no-watermark-plus-minor-tweaks
 ```
 
-Build:
-
-```bash
-yarn build
-```
-
-## Embed in your HTML
-
-### PopUp
-
-```html
-<script type="module">
-  import Chatbot from 'https://cdn.jsdelivr.net/npm/flowise-embed/dist/web.js';
-  Chatbot.init({
-    chatflowid: '<chatflowid>',
-    apiHost: 'http://localhost:3000',
-  });
-</script>
-```
-
-### FullPage
-
-```html
-<script type="module">
-  import Chatbot from './web.js';
-  Chatbot.initFull({
-    chatflowid: '<chatflowid>',
-    apiHost: 'http://localhost:3000',
-  });
-</script>
-<flowise-fullchatbot></flowise-fullchatbot>
-```
-
-To enable full screen, add `margin: 0` to <code>body</code> style, and confirm you don't set height and width
-
-```html
-<body style="margin: 0">
-  <script type="module">
-    import Chatbot from './web.js';
-    Chatbot.initFull({
-      chatflowid: '<chatflowid>',
-      apiHost: 'http://localhost:3000',
-      theme: {
-        chatWindow: {
-          // height: 700, don't set height
-          // width: 400, don't set width
-        },
-      },
-    });
-  </script>
-</body>
-```
-
-## Configuration
-
-You can also customize chatbot with different configuration
+## After use it as shown below 
+Watermark is gone !!
 
 ```html
 <script type="module">
